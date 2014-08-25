@@ -13,7 +13,7 @@ For this test you will be writing a REST API in PHP for managing multiple todo l
 
 1. It needs to provide a way to get, create, modify and delete todo lists.
 2. It needs to provide a way to manage todo items within todo lists. This includes marking a todo as done, and getting a list of only the ones that haven't been done yet. 
-3. In needs to have a simple authentication system. It's up to you to decide how you implement this, but keep it simple. Its only goal is to limit API use to our only user.
+3. It needs to have a simple authentication system. It's up to you to decide how you implement this, but keep it simple. Its only goal is to limit API use to our only user.
 
 For storage, a standard MySQL database is OK. But feel free to use something else if you're more comfortable with it.
 
